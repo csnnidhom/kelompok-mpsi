@@ -7,7 +7,7 @@
 - 2103187007 - M. Rizki Hendrawan
 ##
 ###Tugas 3 - Git Workflow untuk kolaborasi antar developers
-![Tugas Git Workflow](/home/khamet/Downloads/git-collab.png  "Tugas Git Workflow")
+![Tugas Git Workflow](./git-collab.png  "Tugas Git Workflow")
 ---
 **Detail Tugas**
 ---
