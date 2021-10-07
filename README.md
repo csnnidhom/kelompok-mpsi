@@ -6,7 +6,7 @@
 - 2103187001 - Eka Ayu Pramesthi
 - 2103187007 - M. Rizki Hendrawan
 ##
-###Tugas 3 - Git Workflow untuk kolaborasi antar developers
+### Tugas 3 - Git Workflow untuk kolaborasi antar developers
 ![Tugas Git Workflow](./git-collab.png  "Tugas Git Workflow")
 ---
 **Detail Tugas**
